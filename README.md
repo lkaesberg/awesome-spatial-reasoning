@@ -89,6 +89,11 @@
 - Habitat
 - RoboCasa
 
+
+
+## Related repos/surverys
+- https://github.com/ActiveVisionLab/Awesome-LLM-3D
+  
 ----
 
 
