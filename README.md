@@ -40,13 +40,17 @@
 #### Robotics and action
 |Paper|Venue/Date|Code|
 |-|-|-|
+|[Gemini Robotics](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)|2025|-|
+|[NVIDIA Gr00T N1](https://d1qx31qr3h6wln.cloudfront.net/publications/GR00T_1_Whitepaper.pdf)|2025|[link](https://github.com/NVIDIA/Isaac-GR00T/)|
+|[Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864)|2023|[link](https://robotics-transformer-x.github.io/)|
+|[Pi-0: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/download/pi0.pdf)|2024||
 |[Poliformer: Scaling On-Policy RL with Transformers Results in Masterful Navigators](https://arxiv.org/abs/2406.20083)|CoRL 2024|[link](https://github.com/allenai/PoliFormer)|
 |[SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World](https://spoc-robot.github.io/)|CVPR 2024|[link](https://github.com/allenai/spoc-robot-training)|
 |[RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics](https://huggingface.co/datasets/wentao-yuan/robopoint-data)|CoRL 2024|[link](https://github.com/wentaoyuan/RoboPoint)|
-|[Pi-0: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/download/pi0.pdf)|2024||
 |[3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631)|ICML 2024|[link](https://github.com/UMass-Foundation-Model/3D-VLA)|
 |[OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/)|2024|[link](https://github.com/openvla/openvla)|
-|[Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864)|2023|[link](https://robotics-transformer-x.github.io/)|
+|[Latent Action Pretraining](https://arxiv.org/pdf/2410.11758)|2024|[link](https://latentactionpretraining.github.io/)|
+
 
 #### Reasoning, chain-of-thought, RL
 |Paper|Venue/Date|Code|
@@ -73,6 +77,7 @@
 |[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/abs/2406.09756)|2024||
 |[Fast3r: Towards 3D Reconstruction of 1000+ Images in One Forward Pass](https://arxiv.org/abs/2501.13928)|2025||
 |[Light3R-SfM: Towards Feed-forward Structure-from-Motion](https://arxiv.org/abs/2501.14914)|2025||
+|[Stereo 4D](https://stereo4d.github.io/)|2025|[link](https://stereo4d.github.io/)|
 
 ----
 
@@ -91,7 +96,7 @@
 
 
 
-## Related repos/surverys
+## Related repos/surveys
 - https://github.com/ActiveVisionLab/Awesome-LLM-3D
   
 ----
