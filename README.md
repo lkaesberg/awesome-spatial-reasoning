@@ -17,6 +17,8 @@
 |[Cambrian-10M](https://huggingface.co/datasets/nyu-visionx/Cambrian-10M)|Image, Text|MLM pretraining QA on images|Yes|No|[link](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23)|
 |[PixMO](https://huggingface.co/collections/allenai/pixmo-674746ea613028006285687b)|Image, Text|MLM pretraining QA on images|Yes|Yes|[link](https://huggingface.co/allenai/Molmo-7B-D-0924)|
 |[MegaBench](https://tiger-ai-lab.github.io/MEGA-Bench/)|Image, Text|MLM benchmark with splits on spatial reasoning|No|Yes|No|
+|[MultiSpatialLLM](https://github.com/facebookresearch/Multi-SpatialMLLM)| Image/multi-image, Text | Dynamic spatial QAs|Yes|Yes|-|
+|[PEVideo](https://ai.meta.com/datasets/pe-video/)| Video, text | dense action video annotations| Yes | Yes| -|
 
 
 
@@ -50,21 +52,26 @@
 |[3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631)|ICML 2024|[link](https://github.com/UMass-Foundation-Model/3D-VLA)|
 |[OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/)|2024|[link](https://github.com/openvla/openvla)|
 |[Latent Action Pretraining](https://arxiv.org/pdf/2410.11758)|2024|[link](https://latentactionpretraining.github.io/)|
+|[GraspMolmo](https://arxiv.org/abs/2505.13441)|2025|[link](https://abhaybd.github.io/GraspMolmo/)|
+
+
 
 
 #### Reasoning, chain-of-thought, RL
 |Paper|Venue/Date|Code|
 |-|-|-|
+|[COT-VLA](https://arxiv.org/abs/2503.22020)|2025|-|
 |[SpatialCOT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning](https://arxiv.org/abs/2501.10074)|2025|-|
 |[Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548)|2025|-|
 |[Improving Transformer World Models for Data-Efficient RL](https://arxiv.org/abs/2502.01591)|2025|-|
 |[Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)|2019|-|
 
 
-#### Image-text matching
+#### Image-text representations
 
 |Paper|Venue/Date|Code|
 |-|-|-|
+|[Perception Encoder](https://arxiv.org/abs/2504.13181)|2025||
 |[TIPS: Text-Image Pretraining with Spatial Awareness](https://arxiv.org/abs/2410.16512)|ICLR 2025||
 
 ----
