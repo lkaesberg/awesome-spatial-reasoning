@@ -60,6 +60,7 @@
 #### Reasoning, chain-of-thought, RL
 |Paper|Venue/Date|Code|
 |-|-|-|
+|[Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://www.arxiv.org/abs/2506.17218)|2025|-|
 |[COT-VLA](https://arxiv.org/abs/2503.22020)|2025|-|
 |[SpatialCOT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning](https://arxiv.org/abs/2501.10074)|2025|-|
 |[Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548)|2025|-|
