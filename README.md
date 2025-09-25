@@ -96,16 +96,11 @@
 
 
 ### Spatial Scene Generation
-- Holodeck
-- Scenecraft
-- Scenescript
+- [Holodeck- Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
+- [Scenecraft- Layout-Guided 3D Scene Generation](https://orangesodahub.github.io/SceneCraft/)
+- [Scenescript- Reconstructing Scenes With An Autoregressive Structured Language Model](https://arxiv.org/abs/2403.13064)
+- [R2D3-Imparting Spatial Reasoning by Reconstructing 3D Scenes from 2D Images](https://openreview.net/attachment?id=Ku4lylDpjq&name=pdf)
 
----
-
-### Simulation Engines
-- AI2-THOR
-- Habitat
-- RoboCasa
 
 
 
