@@ -3,11 +3,13 @@
 
 ## Datasets
 
-|Name|Modalities|Description|Train|Test|HF Model|
+|Name|Modalities|Description|Train|Test|HF|
 |-|-|-|-|-|-|
+|[Zebra-CoT](https://arxiv.org/abs/2507.16746)|Multi-Image, Text|Interleaved Vision Language Reasoning|Yes|-|[Link](https://huggingface.co/datasets/multimodal-reasoning-lab/Zebra-CoT)|
+|[Video-R1](https://arxiv.org/abs/2503.21776)|Video, Text|Video and text-based reasoning|Yes|-|[Code](https://github.com/tulerfeng/Video-R1)|
 |[VSI-Bench](https://huggingface.co/datasets/nyu-visionx/VSI-Bench)|Video, Text|Video walk through of apartment, questions about spatial orientations and planning|No  |Yes| No|
 |[CV-Bench](https://huggingface.co/datasets/nyu-visionx/CV-Bench)|Image, Text|Spatial relationship QA on images|No|Yes| [link](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)|
-|[SAT](https://huggingface.co/datasets/array/SAT)|Multi-image, Text|Complex spatial QAs that require reasoning about actions on synthetic images|Yes|Yes|[link](https://huggingface.co/array/sat-dynamic-13b)|
+|[SAT](https://huggingface.co/datasets/array/SAT)|Multi-image, Text|Complex spatial QAs that require reasoning about action/motion causality on synthetic images|Yes|Yes|[link](https://huggingface.co/datasets/array/SAT)|
 |[BLINK](https://huggingface.co/datasets/BLINK-Benchmark/BLINK)|Multi-image, Text|Complex visual QA with spatial perception splits|No|Yes|No|
 |[ProVision](https://huggingface.co/datasets/Salesforce/ProVision-10M)|Image, Text|Pseudo-annotated spatial relationship QAs on images|Yes|Yes|No|
 |[SpatialRGPT](https://www.anjiecheng.me/SpatialRGPT)|Image, Text|Pseudo-annotated spatial relationship QAs on images|Yes|Yes|No|
@@ -66,6 +68,9 @@
 |[SpatialCOT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning](https://arxiv.org/abs/2501.10074)|2025|-|
 |[Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548)|2025|-|
 |[Improving Transformer World Models for Data-Efficient RL](https://arxiv.org/abs/2502.01591)|2025|-|
+|[Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/abs/2503.21776)|2025|[Code](https://github.com/tulerfeng/Video-R1)|
+|[SIFThinker: Spatially-Aware Image Focus for Visual Reasoning](https://arxiv.org/abs/2508.06259)|2025|[Code](https://github.com/zhangquanchen/SIFThinker)|
+|[VisRL: Intention-Driven Visual Perception via Reinforced Reasoning](https://arxiv.org/abs/2503.07523)|2025|[Code](https://github.com/zhangquanchen/VisRL)|
 |[Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)|2019|-|
 
 
@@ -92,16 +97,11 @@
 
 
 ### Spatial Scene Generation
-- Holodeck
-- Scenecraft
-- Scenescript
+- [Holodeck- Language Guided Generation of 3D Embodied AI Environments](https://yueyang1996.github.io/holodeck/)
+- [Scenecraft- Layout-Guided 3D Scene Generation](https://orangesodahub.github.io/SceneCraft/)
+- [Scenescript- Reconstructing Scenes With An Autoregressive Structured Language Model](https://arxiv.org/abs/2403.13064)
+- [R2D3-Imparting Spatial Reasoning by Reconstructing 3D Scenes from 2D Images](https://openreview.net/attachment?id=Ku4lylDpjq&name=pdf)
 
----
-
-### Simulation Engines
-- AI2-THOR
-- Habitat
-- RoboCasa
 
 
 
