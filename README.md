@@ -22,7 +22,7 @@
 |[MegaBench](https://tiger-ai-lab.github.io/MEGA-Bench/)|Image, Text|MLM benchmark with splits on spatial reasoning|No|Yes|No|
 |[MultiSpatialLLM](https://github.com/facebookresearch/Multi-SpatialMLLM)| Image/multi-image, Text | Dynamic spatial QAs|Yes|Yes|-|
 |[PEVideo](https://ai.meta.com/datasets/pe-video/)| Video, Text | dense action video annotations| Yes | Yes| -|
-|[SPaRC](https://huggingface.co/datasets/lkaesberg/SPaRC/)| Text | 2D pathfinding dataset, requiring multi-step spatial and rule-based reasoning| Yes | Yes|-|
+|[SPaRC](https://sparc.gipplab.org/)| Text | 2D pathfinding dataset, requiring multi-step spatial and rule-based reasoning| Yes | Yes|[link](https://huggingface.co/datasets/lkaesberg/SPaRC)|
 |[Spatial-Gym](https://github.com/lkaesberg/Spatial-Gym)| Text, Image | Gymnasium environment for step-by-step 2D grid pathfinding on SPaRC puzzles, with optional backtracking ([paper](https://arxiv.org/abs/2604.09338))| Yes | Yes|-|
 
 
